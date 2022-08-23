@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* header part */
+.header{
+    background-image: url(images/donation4.jpg);
+    margin-bottom: 120px;
+    height: 350px;
+
+
+}
+/* similar article */
+.header-article{
+    text-align: center;
+    color: aliceblue;
+    margin-left:20px;
+    margin-right: 20px;
+    text-decoration: none;
+    padding-top: 40px;
+   
+   
+
+}
+/* button part */
+.header-article button{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: tomato;
+    margin-bottom: 10px;
+    border: none;
+    
+}
+.article-area{
+    text-align: center;
+    margin-left: 40px;
+    padding-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    
+}
+.box-area{
+    display: flex;
+    margin-bottom: 30px;
+}
+#box-model{
+    border: 2px solid salmon;
+    color: tomato;
+    background-color: gainsboro;
+    margin-left: 35px;
+    padding: 10px;
+}
+.box{
+   background-color: gainsboro;
+   margin-left: 35px;
+   padding: 10px;
+  
+   
+}
+.donation-button button{
+    margin-left: 45%;
+    padding: 10px;
+    background-color: tomato;
+    margin-bottom: 10px;
+    border: none;
+
+}
+hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+span{
+    margin-left: 42%;
+}
+.box-side{
+    background-color: lightcyan;
+    margin-left: 10px;
+    padding: 10px;
+    text-align: left;
+    margin-right: 10px;
+}
+#box-art{
+    background-color: aliceblue;
+}
+#box-part{
+    background-color: antiquewhite;
+}
+.image-part img{
+   width: 380px;
+    height: auto;
+    margin-left: 30px;
+    padding: 10px;
+}
+.part{
+    margin-bottom: 60px;
+}
+.text-part{
+    width: 30%;
+    margin-left: 20px;
+    padding: 10px;
+}
+.text-part button{
+    padding: 10px;
+    background-color: tomato;
+    margin-bottom: 10px;
+    border: none;
+
+
+}
+.input-type{
+    background-color: sandybrown;
+    padding: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 40px;
+    color: brown;
+}
+.ended{
+    background-color: black;
+    height: 100px;
+    color: aliceblue;
+}
+.end-part{
+    text-align: center;
+    padding-top: 20px;
+}
+.end-part h3{
+  
+    font-family: 'Courier New', Courier, monospace;
+    color: coral;
+}
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid red;
+  }
